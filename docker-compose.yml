@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  jupyter:
+    image: edickie/kcnischool-jupyter
+    ports:
+      - 8888:8888
+    volumes:
+      - ./:/home/neuro/kcni-school-lessons
