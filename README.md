@@ -1,6 +1,6 @@
-Open this repo in jupyter [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/krembilneuroinformatics/example-python-repo/HEAD)
-
 # Example Python environment with a requirements.txt
+
+Open this repo in jupyter [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/krembilneuroinformatics/example-python-repo/HEAD)
 
 This is modified for a demo in the KCNI School from an example template at: https://github.com/binder-examples/requirements
 
